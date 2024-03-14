@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    padding-bottom: 24px;
+    margin: 16px 16px;
+}
+
+.form-campo {
+    margin-bottom: 16px;
+    margin-left: 16px;
+}
+
+.form-campo label {
+    font-weight: bold;
+    display: block;
+}
+
+form {
+    max-width: 360px;
+}
+
+button {
+    margin-left: 16px;
+}
